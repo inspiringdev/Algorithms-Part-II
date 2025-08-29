@@ -40,7 +40,8 @@ While working on these problems, I encountered several challenges:
 ---
 
 ## 🚀 How to Run
-Each problem is implemented in Python. To run:
+Each problem is implemented in **Java**. To compile and run:
 
 ```bash
-python3 filename.py
+javac -cp .:algs4.jar MyProgram.java
+
